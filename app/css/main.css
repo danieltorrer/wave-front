@@ -1,0 +1,9 @@
+* + * {
+  margin-bottom: 10px;
+}
+.pregunta label {
+  display: block;
+}
+.pregunta input {
+  margin-right: 5px;
+}
